@@ -1,3 +1,7 @@
+# IMPROVEART
+
+A site dedicated to posting resources for improving your art (specifically drawing and other fine arts). 
+
 # README
 
 This README would normally document whatever steps are necessary to get the
